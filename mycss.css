@@ -1,0 +1,25 @@
+.dark-blue-background {
+    background-color: #000080; /* Dark blue color */
+    padding: 20px; /* Adjust padding as needed */
+}
+
+h2 {
+    text-align: center;
+    color: white; /* White text color */
+}
+
+.centerbtn {
+    margin-left: 32%;
+}
+
+.alignctr {
+    text-align: center;
+}
+
+.margintop {
+    margin-top: 10%;
+}
+
+.bordertop {
+    border-top: none !important;
+}
